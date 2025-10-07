@@ -5,7 +5,7 @@
 **Git**, **Haskell**을 다룬다.
 
 ## Week1-2 오픈소스소프트웨어 개요
-[OCTOVERSE](https://octoverse.github.com/)
+**_[OCTOVERSE](https://octoverse.github.com/)_**
 ![github](https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Font_Awesome_5_brands_github.svg/500px-Font_Awesome_5_brands_github.svg.png)
 
 OSS : 소프트웨어 저작권 소유자가 모든 사람에게 소스코드를 게시, 사용, 복사, 수정 및 배포할 권리를 부여한 소프트웨어
