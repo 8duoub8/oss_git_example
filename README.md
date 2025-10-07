@@ -1,6 +1,6 @@
 ## Week1-1 강의 개요 (강의계획서)
 
-**노트북**으로 실습  
+**컴퓨터**로 실습(노트북 필수)  
 출석 확인은 **퀴즈**로 확인  
 **Git**, **Haskell**을 다룬다.
 
@@ -11,12 +11,12 @@
 OSS : 소프트웨어 저작권 소유자가 모든 사람에게 소스코드를 게시, 사용, 복사, 수정 및 배포할 권리를 부여한 소프트웨어
 
 OSS License : 오픈소스 소프트웨어의 사용, 복제, 수정, 배포 권한의 범위를 지정
-  * GPL
-  * LGPL
-  * MIT
-  * BSD
-  * Apache
-  * MPL
+ * GPL
+ * LGPL
+ * MIT
+ * BSD
+ * Apache
+ * MPL
 
 Free Software vs Open Source Software
 
@@ -32,7 +32,6 @@ Free Software vs Open Source Software
   * Workspace  
   * Index  
   * Local reporitory
-
   * Remote reporitory
 
 ## Week2-2 Git
@@ -56,4 +55,5 @@ _Pull Request_는 내가 수정한 코드를 내 GitHub 저장소의 브랜치�
 
 ## Week3 Markdown
 >“Markdown is a text-to-HTML conversion tool for web writers. Markdown allows you to write using an easy-to-read, easy-to-write plain text format, then convert it to structurally valid XHTML (or HTML).”
->John Gruber
+>
+>-John Gruber
